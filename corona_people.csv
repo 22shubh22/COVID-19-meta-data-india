@@ -1,2 +1,99 @@
-District,State,Travel History,Date of Infection,Hospitalization At,Recovered (Yes/No),Death?
-Raipur,Chhattisgarh,London,01/03/17,AIIMS Raipur,N,
+District,State,Age,Male/Female/Other,Origin,Date of Infection,Hospitalization At,Recovered (Yes/No),Death?,Sources
+Raipur,Chhattisgarh,24,F,UK,17/03/20,AIIMS Raipur,N,,https://economictimes.indiatimes.com/news/politics-and-nation/woman-tests-positive-for-coronavirus-in-chhattisgarh-first-in-state/articleshow/74706606.cms?from=mdr
+Alappuzha,Kerala,,,Wuhan,30/01/20,,,,https://www.ndtv.com/india-news/5-of-family-infected-with-coronavirus-in-kerala-total-positive-cases-in-india-rise-to-39-2191757
+Kasargod,Kerala,,,Wuhan,30/01/20,,,,https://www.ndtv.com/india-news/5-of-family-infected-with-coronavirus-in-kerala-total-positive-cases-in-india-rise-to-39-2191757
+Thrissur,Kerala,,,Wuhan,30/01/20,,,,https://www.ndtv.com/india-news/5-of-family-infected-with-coronavirus-in-kerala-total-positive-cases-in-india-rise-to-39-2191757
+Pathanamthitta,Kerala,,,Italy,08/03/20,,,,"https://www.ndtv.com/india-news/coronavirus-outbreak-live-updates-3-new-cases-takes-total-to-34-in-india-2191698, https://www.gulftoday.ae/news/2020/03/08/kerala-family-test-positive-for-coronavirus-but-did-not-reveal-they-had-visited-italy"
+Pathanamthitta,Kerala,,,Italy,08/03/20,,,,"https://www.ndtv.com/india-news/coronavirus-outbreak-live-updates-3-new-cases-takes-total-to-34-in-india-2191698, https://www.gulftoday.ae/news/2020/03/08/kerala-family-test-positive-for-coronavirus-but-did-not-reveal-they-had-visited-italy"
+Pathanamthitta,Kerala,,,Italy,08/03/20,,,,"https://www.ndtv.com/india-news/coronavirus-outbreak-live-updates-3-new-cases-takes-total-to-34-in-india-2191698, https://www.gulftoday.ae/news/2020/03/08/kerala-family-test-positive-for-coronavirus-but-did-not-reveal-they-had-visited-italy"
+Pathanamthitta,Kerala,,,Italy,08/03/20,,,,"https://www.ndtv.com/india-news/coronavirus-outbreak-live-updates-3-new-cases-takes-total-to-34-in-india-2191698, https://www.gulftoday.ae/news/2020/03/08/kerala-family-test-positive-for-coronavirus-but-did-not-reveal-they-had-visited-italy"
+Pathanamthitta,Kerala,,,Italy,08/03/20,,,,"https://www.ndtv.com/india-news/coronavirus-outbreak-live-updates-3-new-cases-takes-total-to-34-in-india-2191698, https://www.gulftoday.ae/news/2020/03/08/kerala-family-test-positive-for-coronavirus-but-did-not-reveal-they-had-visited-italy"
+Ernakulam,Kerala,,,Italy,09/03/20,,,,https://www.thenewsminute.com/article/12-coronavirus-cases-kerala-grandparents-family-italy-test-positive-119892
+Pathanamthitta,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Pathanamthitta,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Pathanamthitta,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Pathanamthitta,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Kottayam,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Kottayam,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Ernakulam,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Ernakulam,Kerala,,,Italy,10/03/20,,,,"https://www.hindustantimes.com/india-news/2-more-cases-of-coronavirus-in-kerala-14-infected-in-state-so-far/story-ZbTl7p3NkehEIrH6dY61iL.html, https://www.outlookindia.com/newsscroll/two-more-coronavirus-cases-reported-in-kerala-number-up-to-16/1759500, http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf"
+Kannur,Kerala,,,UAE,12/03/20,,,,https://www.theweek.in/news/india/2020/03/15/kerala-doctor-uk-tourist-test-positive-for-coronavirus.html
+Thrissur,Kerala,,,UAE,12/03/20,,,,https://www.theweek.in/news/india/2020/03/15/kerala-doctor-uk-tourist-test-positive-for-coronavirus.html
+Thiruvananthapuram,Kerala,,,Spain,15/03/20,,,,https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html
+Thiruvananthapuram,Kerala,,,UK,15/03/20,,,,https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html
+Thiruvananthapuram,Kerala,,,UK,15/03/20,,,,https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html
+Thiruvananthapuram,Kerala,,,,15/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Ldukki,Kerala,,,,15/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Saudi Arabia,16/03/20,,,,https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html
+Malappuram,Kerala,,,UAE,16/03/20,,,,https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.htmlhttps://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html
+Malappuram,Kerala,,,UAE,16/03/20,,,,https://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.htmlhttps://english.manoramaonline.com/news/kerala/2020/03/16/coronavirus-kerala-latest-news-new-cases-quarantine-cm-pinarayi-vijayan.html
+Kasargod,Kerala,,,,16/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Ernakulam,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Ernakulam,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Ernakulam,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kannur,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kannur,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kannur,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Kasargod,Kerala,,,Middle east,20/03/20,,,,http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_22032020.pdf
+Ernakulam,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Ernakulam,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Ernakulam,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,21/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Ernakulam,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Ernakulam,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Malappuram,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Malappuram,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kannur,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kasargod,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kozhikode,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Kozhikode,Kerala,,,Middle east,22/03/20,,,,https://www.asianetnews.com/kerala-news/15-more-confirmed-covid-19-in-kerala-q7ljkp
+Ernakulam,Kerala,,,UAE,23/03/20,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Ernakulam,Kerala,,,UAE,23/03/20,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kannur,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kannur,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kannur,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kannur,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kannur,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kasargod,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kozhikode,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Kozhikode,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Pathanamthitta,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
+Thrissur,Kerala,,,UAE,23/03/00,,,,https://www.madhyamam.com/kerala/kerala-lockdown-kerala-news/670003
