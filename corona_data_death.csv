@@ -1,4 +1,4 @@
-District,Province/State,Lat,Long,23/03/20,24/03/20,25/03/20 (09:15 AM)
+District,Province/State,Lat,Long,23/03/20,24/03/20,25/03/20,26/03/20 (09:15 AM)
 ,Kerala,10.850516,76.27108,0,,0
 ,Tamil Nadu,11.059821,78.387451,0,,0
 ,Karnataka,15.317277,75.71389,1,,0
@@ -29,7 +29,7 @@ District,Province/State,Lat,Long,23/03/20,24/03/20,25/03/20 (09:15 AM)
 ,West Bengal,22.978624,87.747803,1,,1
 ,Andaman Nicobar Islands,11.6234,92.7265,,,
 ,Lakshadweep,10.5667,72.6417,,,
-,Jammu Kashmir,32.7266,74.857,0,,0
+,Jammu Kashmir,32.7266,74.857,0,,1
 ,Ladakh,34.209515,77.615112,0,,0
 ,Chandigarh,30.7333,76.7794,0,,
 ,Delhi,28.7041,77.1025,1,,1
